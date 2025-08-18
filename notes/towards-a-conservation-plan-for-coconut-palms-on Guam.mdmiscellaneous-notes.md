@@ -6,7 +6,7 @@ The following is a quote from Moore 2018.
 
 Not much has changed since I wrote this. Cycads and coconut palms are still being killed at a high rate by invasive insects. For cycads, the main culprit is the cycad Aulacaspis scale (CAS) which was first detected in 2003 and for coconut palms it is coconut rhinoceros beetle (CRB) which was first detected in 2007.
 
-The situation on Guam is globally unique in that we are rapidly losing our top two most abundant trees simultaneously.  Since arrival of CAS, the Guam cycad population has been reduced by 96% (Marler and Krishnapillai 2020). There is no equivalent estimate for coconut palm population reduction since arrival of CRB. 
+The situation on Guam is globally unique in that we are rapidly losing our top two most abundant trees simultaneously.  Since arrival of CAS, the Guam cycad population has been reduced by 96% (Marler and Krishnapillai 2020). There is no equivalent estimate for coconut palm population reduction since arrival of CRB. Both tree species are clearly endangered and need to be protected. However, neither species is currently rare. Of 49 tree species listed in the most recent US Forest Service FIA report (Lazaro et al. 2020), coconut palm ranked 15 in abundance and fadang ranked 15. (Unfortunately, data from the 2024 FIA survey are not yet available.)
 
 In my opinion, conservation efforts to protect cycads and coconut palms on Guam are not likely to succeed without implementing self-sustaining biological control for CAS and CRB. 
 
@@ -19,6 +19,8 @@ In my opinion, conservation efforts to protect cycads and coconut palms on Guam 
 ## References
 
 Donnegon et al. 2004. Guam’s Forest Resources, 2002. PNW-RB-243. [http://www.fs.fed.us/pnw/pubs/pnw_rb243.pdf](http://www.fs.fed.us/pnw/pubs/pnw_rb243.pdf).
+
+Lazaro et al. 2020. “Guam’s Forest Resources: Forest Inventory and Analysis, 2013.” Resour. Bull. PNW-RB-270. Portland, OR: U.S. Department of Agriculture, Forest Service, Pacific Northwest Research Station. 43 p. 270. [https://doi.org/10.2737/PNW-RB-270](https://doi.org/10.2737/PNW-RB-270).
 
 Marler and Krishnapillai. 2020. “Longitude, Forest Fragmentation, and Plant Size Influence Cycas Micronesica Mortality Following Island Insect Invasions.” Diversity 12 (5): 5. [https://doi.org/10.3390/d12050194](https://doi.org/10.3390/d12050194).
 
