@@ -8,13 +8,15 @@ Not much has changed since I wrote this. Cycads and coconut palms are still bein
 
 The situation on Guam is globally unique in that we are rapidly losing our top two most abundant trees simultaneously.  Since arrival of CAS, the Guam cycad population has been reduced by 96% (Marler and Krishnapillai 2020). There is no equivalent estimate for coconut palm population reduction since arrival of CRB. 
 
-In my opinion, conservation efforts for cycads and coconut palms on Guam are not likely to succeed without implementing self-sustaining biological control for CAS and CRB. 
+In my opinion, conservation efforts to protect cycads and coconut palms on Guam are not likely to succeed without implementing self-sustaining biological control for CAS and CRB. 
 
 ## Historical perspective
 
 ## Regional perspective
 
 ## Local perspective
+
+## References
 
 Donnegon et al. 2004. Guam’s Forest Resources, 2002. PNW-RB-243. [http://www.fs.fed.us/pnw/pubs/pnw_rb243.pdf](http://www.fs.fed.us/pnw/pubs/pnw_rb243.pdf).
 
