@@ -41,7 +41,7 @@ Donnegon et al. 2004. Guam’s Forest Resources, 2002. PNW-RB-243. [http://www.f
 
 Fejeran 2021. Guam Forest Action Plan 2020-2030. [https://www.stateforesters.org/wp-content/uploads/2021/12/GUAM-FAP_2020to2030_20210429.pdf](https://www.stateforesters.org/wp-content/uploads/2021/12/GUAM-FAP_2020to2030_20210429.pdf)
 
-Gressitt, Linsley J. 1953. The Coconut Rhinoceros Beetle (Oryctes Rhinoceros) with Particular Reference to the Palau Islands. Honolulu. [https://books.google.com/books?id=OtcZAQAAIAAJ](https://books.google.com/books?id=OtcZAQAAIAAJ)
+Gressitt, Linsley J. 1953. The Coconut Rhinoceros Beetle (Oryctes Rhinoceros) with Particular Reference to the Palau Islands. Honolulu. [https://tinyurl.com/npsab5d4](https://tinyurl.com/npsab5d4)
 
 Guam Invasive Species Council 2017. 2017-2019 Guam Invasive Species Management Plan. [https://library.sprep.org/sites/default/files/nissap-2017-2019.pdf](https://library.sprep.org/sites/default/files/nissap-2017-2019.pdf)
 
