@@ -27,9 +27,17 @@ applied OrNV isolates that cause disease in other CRB populations (Moore and Jac
 >
 >Guam with biocontrol and characterization of the population. We report on the identification of a new, invasive haplotype of CRB and its distribution as well as attempts to control with OrNV. The implications of a new, invasive, form of O. rhinoceros in the Pacific that cannot be controlled by known isolates of OrNV are discussed.
 
-## Regional perspective
+OrNV resistant CRB genotypes have continued to spread in recent years to several Pacific Islands including Rota in the CNMI, Majuro in the RMI and to the Hawaiian Islands of Niihau, Kaui'i, Maui, and the Big Isand. It was once thought that Guam was a potential source of CRB invading other islands. But detailed DNA analysis shows that the beetles on Guam are geneticly unique, meaning that we don't know where the Guam CRB population originated, and this population has not spread elsewhere. Many OrNV isolates have been tested against Guam CRB beetles in lab bioassays but, to date, results have not indicated that any have potential as effective biological control agents. However, many researchers think that establishment of self-sustaining biological control using an OrNV isolate is the most feasable solution for island-wide protection of Guam's coconut palms. The plan is to:
+* find the origin of the Guam CRB population using DNA matching
+* extract OrNV isolates from the original population
+* perform laboratory bioassays to test the potential of these isolates as potential biocontrol agents
+* infect CRB adults on Guam and release them throughout the island
 
-## Local perspective
+Clearly, this plan requires regional collaboration.
+
+## Monitoring coconut palm health on Guam
+
+
 
 ## Existing action plans
 
