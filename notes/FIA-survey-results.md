@@ -1,6 +1,6 @@
 # Using FIA Survey Data to Track Changes in Island-wide Tree Populations
 
-I attempted to estimate changes in island-wide populations of *Cocos nucifera* and *Cycas micronesica* between the two FIA survey reports currently available. My results are shown in the two figures below.
+I attempted to estimate changes in island-wide populations of *Cocos nucifera* and *Cycas micronesica* between the two FIA survey reports currently available. See Figure 1 for coconut palms and Figure 2 for *Cycas micronesica*.
 
 After generating these figures, it became obvious that I needed to look at the raw data instead of the crunched data in the survey reports. Then I remembered that I had already done change analysis with FIA data several years ago.
 Code and data are in [this GitHub repository](https://github.com/aubreymoore/SQLite-database-for-Guam-Forest-Inventory) and results are shown in Figure 3, below.
