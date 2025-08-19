@@ -18,9 +18,7 @@ In my opinion, conservation efforts to protect cycads and coconut palms on Guam 
 
 ## Existing action plans
 
-There are several existing action plans which aim to protect coconut palms on Guam including the Guam Forest Action Plan (Fejeran 2021), Strategic Action Plan for Coconut Rhinoceros Beetle (Pacific Ecological Security Conference 2022),
-2017-2019 Guam Invasive Species Management Plan (Guam Invasive Species Council 2017).
-
+There are several existing action plans which aim to protect coconut palms on Guam and other Pacific islands including the 2017-2019 Guam Invasive Species Management Plan (Guam Invasive Species Council 2017), the Guam Forest Action Plan (Fejeran 2021), and the Strategic Action Plan for Coconut Rhinoceros Beetle (Pacific Ecological Security Conference 2022).
 
 ## References
 
