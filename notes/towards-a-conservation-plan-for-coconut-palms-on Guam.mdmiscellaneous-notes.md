@@ -43,6 +43,9 @@ Clearly, this plan requires regional collaboration.
 
 There are several existing action plans which aim to protect coconut palms on Guam and other Pacific islands including the 2017-2019 Guam Invasive Species Management Plan (Guam Invasive Species Council 2017), the Guam Forest Action Plan (Fejeran 2021), and the Strategic Action Plan for Coconut Rhinoceros Beetle (Pacific Ecological Security Conference 2022).
 
+Of these, the CRB SAP from the Pacific Ecological Security Conference is probably the most informative for development of a coconut palm conservation plan for Guam. This plan takes a regional approach which will be necessary for solving the CRB problem on Guam and other Pacific Islands.
+Moore and Quitugua at UOG were part of the development team and they participated int the PESC conference along with Dr. Glenn Dulla and Dr. Andrea Blas who worked for GDOA at the time.
+
 ## References
 
 Donnegon et al. 2004. Guam’s Forest Resources, 2002. PNW-RB-243. [http://www.fs.fed.us/pnw/pubs/pnw_rb243.pdf](http://www.fs.fed.us/pnw/pubs/pnw_rb243.pdf)
