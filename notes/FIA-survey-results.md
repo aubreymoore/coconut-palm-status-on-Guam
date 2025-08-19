@@ -1,7 +1,9 @@
 # Using FIA Survey Data to Track Changes in Island-wide Tree Populations
 
 I attempted to estimate changes in island-wide populations of *Cocos nucifera* and *Cycas micronesica* between the two FIA survey reports currently available. My results are shown in the two figures below.
-After generating these figures, it became obvious that I needed to look at the raw data instead of the crunched data in the survey reports.
+
+After generating these figures, it became obvious that I needed to look at the raw data instead of the crunched data in the survey reports. Then I remembered that I had already done change analysis with FIA data several years ago.
+Code and data are in [this GitHub repository](https://github.com/aubreymoore/SQLite-database-for-Guam-Forest-Inventory) and results are shown in Figure 3, below.
 
 
 
@@ -18,3 +20,5 @@ Figure 2. Island-wide population estimates for *Cycas micronesica* on Guam estim
 Note that different metrics were used in the two surveys.
 The 2002 estimate comes from Donnegon et al. 2004, page 16, Table 5: Estimated number of live trees on forest land by species and diameter class. They reported a total of 1,571,556 live *Cycas micronesica* plamts growing on forest land on Guam during 2002.
 The 2013 estimate comes from Lazaro et al. 2020, page 7, Tabel 2: Estimated number of trees on Guam, by species. They simply reported their estimate of the total number of *Cycas circinalis* on Guam during 2013 as 624,000 with a sampling error of 242,000. I assume that *C. circinalis* is used in error and that it should be *C. micronesica*.
+
+![](https://github.com/aubreymoore/SQLite-database-for-Guam-Forest-Inventory/blob/master/plot.pdf)
