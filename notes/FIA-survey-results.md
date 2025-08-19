@@ -21,4 +21,4 @@ Note that different metrics were used in the two surveys.
 The 2002 estimate comes from Donnegon et al. 2004, page 16, Table 5: Estimated number of live trees on forest land by species and diameter class. They reported a total of 1,571,556 live *Cycas micronesica* plamts growing on forest land on Guam during 2002.
 The 2013 estimate comes from Lazaro et al. 2020, page 7, Tabel 2: Estimated number of trees on Guam, by species. They simply reported their estimate of the total number of *Cycas circinalis* on Guam during 2013 as 624,000 with a sampling error of 242,000. I assume that *C. circinalis* is used in error and that it should be *C. micronesica*.
 
-![](https://github.com/aubreymoore/SQLite-database-for-Guam-Forest-Inventory/blob/master/plot.pdf)
+![](https://github.com/aubreymoore/SQLite-database-for-Guam-Forest-Inventory/blob/master/change_analysis.png)
