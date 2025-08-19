@@ -36,4 +36,5 @@ The 2013 estimate comes from Lazaro et al. 2020, page 7, Tabel 2: Estimated numb
 ![](https://github.com/aubreymoore/SQLite-database-for-Guam-Forest-Inventory/blob/master/change_analysis.png)
 
 Figure 3. Changes in island-wide tree population estimates between 2002 and 2013 using USFS FIA data for Guam.
-The analysis detected significant changes in population for only 3 species. 
+The analysis detected significant changes in population for only 3 species: * *Cycas circinalis* decreased; *Hibiscus tiliaceus* increased and *Vitex parviflora* increased.
+High mortality of *Cocos nucifer* from an island-wide coconut rhinoceros beetle infestation and high mortality of *Neisosperma oppositifolia* (=*Ochrosia oppositifolia*) from fungus infection were not detected.
