@@ -7,6 +7,9 @@ However, the coconut plam population on Guam is in decline, mainly driven by coc
 
 [Notes and References for Guam Coconut Palm Conservation]('../notes/Notes and References for Guam Coconut Palm Conservation.md')
 
+notes/FIA-survey-results.md
+
+
 
 
 
