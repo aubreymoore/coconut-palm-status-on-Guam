@@ -1,4 +1,4 @@
-# Towards a Conservation Plan for Coconut Palms on Guam
+# Notes and References for Guam Coconut Palm Conservation
 
 ## Current status of Guam's forests
 
