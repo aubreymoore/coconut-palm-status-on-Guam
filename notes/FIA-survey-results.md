@@ -5,7 +5,7 @@ I attempted to estimate changes in island-wide populations of *Cocos nucifera* a
 After generating these figures, it became obvious that I needed to look at the raw data instead of the crunched data in the survey reports. Then I remembered that I had already done change analysis with FIA data several years ago.
 Code and data are in [this GitHub repository](https://github.com/aubreymoore/SQLite-database-for-Guam-Forest-Inventory) and results are shown in Figure 3, below.
 
-My analysis only 3 significant changes were detected:
+My analysis detected only 3 significant changes in islandwide tree populations between 2002 and 2013:
 * *Cycas circinalis* significantly decreased
 * *Hibiscus tiliaceus* significantly increased
 * *Vitex parviflora* significantly increased
