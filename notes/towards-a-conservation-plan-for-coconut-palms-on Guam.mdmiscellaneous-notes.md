@@ -45,6 +45,8 @@ Gressitt, Linsley J. 1953. The Coconut Rhinoceros Beetle (Oryctes Rhinoceros) wi
 
 Guam Invasive Species Council 2017. 2017-2019 Guam Invasive Species Management Plan. [https://library.sprep.org/sites/default/files/nissap-2017-2019.pdf](https://library.sprep.org/sites/default/files/nissap-2017-2019.pdf)
 
+Jackson, Trevor, Sean Marshall, Sarah Mansfield, and Fereti Atumurirava. 2020. “Coconut Rhinoceros Beetle (Oryctes Rhinoceros): A Manual for Control and Management of the Pest in Pacific Island Countries and Territories.” Pacific Community. [https://tinyurl.com/yxk4u27j](https://tinyurl.com/yxk4u27j)
+
 Lazaro et al. 2020. “Guam’s Forest Resources: Forest Inventory and Analysis, 2013.” Resour. Bull. PNW-RB-270. Portland, OR: U.S. Department of Agriculture, Forest Service, Pacific Northwest Research Station. 43 p. 270. [https://doi.org/10.2737/PNW-RB-270](https://doi.org/10.2737/PNW-RB-270).
 
 Marler and Krishnapillai. 2020. “Longitude, Forest Fragmentation, and Plant Size Influence Cycas Micronesica Mortality Following Island Insect Invasions.” Diversity 12 (5): 5. [https://doi.org/10.3390/d12050194](https://doi.org/10.3390/d12050194)
