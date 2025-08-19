@@ -14,10 +14,10 @@ My analysis only 3 significant changes were detected:
 
 The cycads observed on Guam were actually *Cycas micronesica*, not *C. circinalis*.
 
-It appears that the FIA sampling scheme, when applied to Guam, results in sample sizes too small to measure changes such as reduction in coconut palms which died from an island-wide coconut rhinoceros beetle infestation and *Neisosperma oppositifolia* (=*Ochrosia oppositifolia*)  which were killed by a fungus.
+It appears that the FIA sampling scheme, when applied to Guam, results in sample sizes too small to measure changes such as high mortality of coconut palms from an island-wide coconut rhinoceros beetle infestation and high mortality of *Neisosperma oppositifolia* (=*Ochrosia oppositifolia*)  which were killed by a fungus.
+These die-offs occuerred between 2002 and 2013 and were obvious to anyone working in Guam's forests.
 
 In addition, a ten-year sampling frequency is too long to adequately monitor rapid changes occurring in Guam's forests.
-
 
 ![](../images/coconut_palm_population_guam.png)
 
@@ -36,4 +36,4 @@ The 2013 estimate comes from Lazaro et al. 2020, page 7, Tabel 2: Estimated numb
 ![](https://github.com/aubreymoore/SQLite-database-for-Guam-Forest-Inventory/blob/master/change_analysis.png)
 
 Figure 3. Changes in island-wide tree population estimates between 2002 and 2013 using USFS FIA data for Guam.
-The analysis detected only 3 significant differences for only 3 species.
+The analysis detected significant changes in population for only 3 species. 
