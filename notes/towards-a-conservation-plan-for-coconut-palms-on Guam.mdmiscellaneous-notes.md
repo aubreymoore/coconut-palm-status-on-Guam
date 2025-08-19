@@ -53,5 +53,7 @@ Marshall,  Sean D. G., Aubrey Moore, Maclean Vaqalo, Alasdair Noble, and Trevor 
 
 Moore 2018. The Guam Coconut Rhinoceros Beetle Problem: Past, Present and Future. Miscellaneous. Zenodo. [https://doi.org/10.5281/zenodo.1185371](https://doi.org/10.5281/zenodo.1185371)
 
+Moore, Aubrey, Trevor Jackson, Roland Quitugua, Robert Bevacqua, Jonae Sayama, and Ross Miller. 2023. “Coconut Rhinoceros Beetle. US Forest Service, Forest Insect and Disease Leaflet 191.” April. [https://www.fs.usda.gov/foresthealth/docs/fidls/FIDL-191-CoconutRhinocerosBeetle.pdf](https://www.fs.usda.gov/foresthealth/docs/fidls/FIDL-191-CoconutRhinocerosBeetle.pdf)
+
 Pacific Ecological Security Conference. 2022. Strategic Action Plan for Coconut Rhinoceros Beetle. Zenodo. [https://doi.org/10.5281/zenodo.7683206](https://doi.org/10.5281/zenodo.7683206)
 
