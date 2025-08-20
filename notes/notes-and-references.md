@@ -39,7 +39,10 @@ Clearly, this plan requires regional collaboration.
 
 ## Monitoring coconut palm health on Guam
 
-
+* forestry surveys
+* CRB damage surveys
+  * Visual surveys
+  * Imagery surveys
 
 ## Existing action plans
 
