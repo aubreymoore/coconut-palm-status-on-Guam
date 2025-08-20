@@ -39,10 +39,10 @@ Clearly, this plan requires regional collaboration.
 
 ## Monitoring coconut palm health on Guam
 
-* forestry surveys
-* CRB damage surveys
-  * Visual surveys
-  * Imagery surveys
+!STILL WORKING ON THIS SECTION!
+
+I etablished [automated island-wide roadside surveys](https://www.uog.edu/_resources/files/wptrc/2020WPTRCFinal.pdf) to monitor changes in coconut health and CRB damage. These were discontinued when I retired from UOG in November 2023.
+Here's an [index to the 10 surveys](https://aubreymoore.github.io/Guam-CRB-web-maps/) performed between October 2020 and September 2023. Results of each survey are publicly available as an [interactive web map](https://aubreymoore.github.io/Guam-CRB-Damage-Map-2023-09/webmap/#11/13.4434/144.7725).
 
 ## Existing action plans
 
